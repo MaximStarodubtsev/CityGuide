@@ -1,0 +1,9 @@
+Info for bot: 
+  Bot User Name: guide_telegram_bot
+  Token: 1120659823:AAHpkva9kNkVFH87NH3-IT4lXbOqMVQcIOc
+  
+To check all cities direct to the address: .../all_cities
+To check specific city: .../all_cities/{name}
+To add city: .../all_cities/add/{name}/{info}
+To delete city: .../all_cities/delete/{name}
+To modify city: .../all_cities/update/{name}/{info}
